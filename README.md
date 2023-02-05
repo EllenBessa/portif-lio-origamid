@@ -34,8 +34,10 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## 🙋‍♀️ Autora
 
-<div style="margin-top:20px; display:flex; align-items:center; gap:18px">
-<img alt="Foto de Ellen Bessa" src="https://avatars.githubusercontent.com/u/102331110?v=4" width="10%" style="border-radius:50%;">
+<br/>
 
-<h1><a href="https://www.linkedin.com/in/ellen-bessa-081773253/" style="all: unset; cursor:pointer; font-size:20px;"> Ellen Bessa </a></h1>
-</div>
+<a href="https://www.linkedin.com/in/ellen-bessa-081773253/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/102331110?v=4" width="100px;" alt=""/>
+ <br>
+ <h2><b>Ellen Bessa</b></h2>
+</a>
